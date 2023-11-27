@@ -33,5 +33,11 @@
 		"vite": "^4.4.2",
 		"vitest": "^0.32.2"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"framework7": "^8.3.0",
+		"framework7-icons": "^5.0.5",
+		"framework7-svelte": "^8.3.0",
+		"material-icons": "^1.13.12"
+	}
 }
